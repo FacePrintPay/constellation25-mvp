@@ -1,1 +1,1 @@
-{"version":2,"name":"constellation25-mvp","buildCommand":"npm run build","outputDirectory":"dist","framework":null}
+{"outputDirectory":"public"}
